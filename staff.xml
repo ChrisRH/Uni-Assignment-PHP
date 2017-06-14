@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<staff>
+  <member>
+    <staff_id name="Staff ID" email="jeff@highport.com.au">1001</staff_id>
+    <surname name="Surname">Hogarts</surname>
+    <givenname name="Given Name">Jeff</givenname>
+    <address name="Address">9 Sand St Port Douglas QLD 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="geoffery@highport.com.au">1101</staff_id>
+    <surname name="Surname">Hunter</surname>
+    <givenname name="Given Name">geoffery</givenname>
+    <address name="Address">10 Sand St Port Douglas QLD 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="mary@highport.com.au">1022</staff_id>
+    <surname name="Surname">Button</surname>
+    <givenname name="Given Name">Mary</givenname>
+    <address name="Address">39 Mudlo St Port Douglas, Queensland 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="jane@highport.com.au">2199</staff_id>
+    <surname name="Surname">Squash</surname>
+    <givenname name="Given Name">Mary</givenname>
+    <address name="Address">35 Garrick St Port Douglas, Queensland 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="david@highport.com.au">8711</staff_id>
+    <surname name="Surname">Battelram</surname>
+    <givenname name="Given Name">David</givenname>
+    <address name="Address">1 Sand St Port Douglas, Queensland 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="jeff@highport.com.au">1023</staff_id>
+    <surname name="Surname">Davidson</surname>
+    <givenname name="Given Name">Robert</givenname>
+    <address name="Address">11 Blake St Port Douglas, Queensland 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="regina@highport.com.au">1002</staff_id>
+    <surname name="Surname">Badenner</surname>
+    <givenname name="Given Name">Regina</givenname>
+    <address name="Address">14 Murphy St Port Douglas, Queensland 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="ottar@highport.com.au">1024</staff_id>
+    <surname name="Surname">utthrich</surname>
+    <givenname name="Given Name">Ottar</givenname>
+    <address name="Address">39 Warner St Port Douglas, Queensland 4877</address>
+  </member>
+  <member>
+    <staff_id name="Staff ID" email="bernice@highport.com.au">1045</staff_id>
+    <surname name="Surname">Barret</surname>
+    <givenname name="Given Name">Bernice</givenname>
+    <address name="Address">20 Davidson St Port Douglas, Queensland 4877</address>
+  </member>
+</staff>

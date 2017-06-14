@@ -1,0 +1,118 @@
+body {
+	background-image: url('../images/pattern2.png');
+	font-family: 'Roboto', serif;
+}
+.beach-background {
+	background-image: url('../images/beach.jpg');
+	background-repeat: no-repeat;
+	
+}
+
+.navbar-default {
+    background-color: #f7f7f9;
+    border-color: #E7E7E7;
+}
+
+.navbar-default .navbar-brand {
+    color: #0265f9;
+	background-image: url('../images/harbour_2.png');
+}
+
+.user-logged {
+	color: #046fdb;
+	margin-right:10px;
+}
+
+.row {
+	margin:10px 20px 10px 20px;
+}
+
+.promo-image-1 {
+	background-image: url('../images/beach.jpg');
+	background-repeat: no-repeat;
+	min-height: 350px;
+	background-position: center center;
+	color: white;
+}
+
+/* Show active menu item */
+ul.navbar li:hover,
+body.home li.home,
+body.index li.index { background-color: #eceafc;}
+body.staff_view li.staff_view { background-color: #eceafc;}
+body.staff_search li.staff_search { background-color: #eceafc;}
+body.staff_add li.staff_add { background-color: #eceafc;}
+body.user_add li.user_add { background-color: #eceafc;}
+body.user_delete li.user_delete { background-color: #eceafc;}
+body.user_view li.user_view { background-color: #eceafc;}
+
+ul.navbar li:hover a,
+body.home li.home a,
+body.index li.index a { color: #000; }
+body.staff_view li.staff_view a { color: #000; }
+body.staff_search li.staff_search a { color: #000; }
+body.staff_add li.staff_add a { color: #000; }
+body.user_add li.user_add a { color: #000; }
+body.user_delete  li.user_delete a { color: #000; }
+body.user_view  li.user_view a { color: #000; }
+
+.staff-list table {
+	max-width:900px;
+}
+
+.search-row {
+	margin:0px;
+}
+
+.search-button {
+	min-height:50px;
+	margin-left:50px;
+	background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px !important;
+	font-family: 'Roboto', serif !important;
+}
+
+.search-text {
+	margin-left:5px;
+}
+
+.search-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+button:focus {outline:0;}
+
+.search-button:after {
+	background-color:white;
+}
+
+.search-button:after  span {
+	background-color:white;
+}
+
+.search-button:hover {
+	background-color:white;
+}
+
+.search-button:hover span {
+  padding-right: 25px;
+  background-color:white;
+}
+
+.search-button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+@media screen and (min-width: 768px) {
+	
+	#myModal .modal-dialog  {width:800px;}
+
+}

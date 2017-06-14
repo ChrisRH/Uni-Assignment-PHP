@@ -1,0 +1,13 @@
+DROP TABLE userlogin;
+CREATE TABLE userlogin
+     ( ID  NUMBER(4) NOT NULL, 
+       USERNAME VARCHAR2(50), 
+       PASSWORD VARCHAR2(20),
+       ROLE VARCHAR2(20),
+       Primary key (ID) 
+     );  
+INSERT INTO userlogin VALUES (1,'admin','SIT780', 'administrator');
+INSERT INTO userlogin VALUES (2,'guest','SIT780', 'normal');
+INSERT INTO userlogin VALUES (3,'jananice','jan123', 'normal');
+INSERT INTO userlogin VALUES (4,'auglic','aug123', 'administrator');
+commit;
